@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["tokio_udt"] = [{"text":"impl <a class=\"trait\" href=\"https://doc.rust-lang.org/1.61.0/core/clone/trait.Clone.html\" title=\"trait core::clone::Clone\">Clone</a> for <a class=\"struct\" href=\"tokio_udt/struct.UdtConfiguration.html\" title=\"struct tokio_udt::UdtConfiguration\">UdtConfiguration</a>","synthetic":false,"types":["tokio_udt::configuration::UdtConfiguration"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()

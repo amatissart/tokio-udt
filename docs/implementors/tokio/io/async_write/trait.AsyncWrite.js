@@ -1,0 +1,3 @@
+(function() {var implementors = {};
+implementors["tokio_udt"] = [{"text":"impl AsyncWrite for <a class=\"struct\" href=\"tokio_udt/struct.UdtConnection.html\" title=\"struct tokio_udt::UdtConnection\">UdtConnection</a>","synthetic":false,"types":["tokio_udt::connection::UdtConnection"]}];
+if (window.register_implementors) {window.register_implementors(implementors);} else {window.pending_implementors = implementors;}})()
